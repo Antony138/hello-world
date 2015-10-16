@@ -22,5 +22,5 @@ clean:
 	rm -f $(TARGET) $(OBJECTS) version.h
 
 .PHONY: all clean
-
+Test
 # vim: noet
